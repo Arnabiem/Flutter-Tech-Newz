@@ -1,4 +1,4 @@
-TechNewz App
+# TechNewz App
 
 It is a news app by fetching the news api ,which gives us the trending technology news around the world.
 
